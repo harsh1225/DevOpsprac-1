@@ -4,3 +4,7 @@ This is a google login
 
 
 This is  a linkedin loginalong side with facebook
+
+
+
+there was a mojor bug the changes i did didnt went in to the  main repo . let me see what to do?
